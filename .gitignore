@@ -1,6 +1,7 @@
-UserSettings
-Library
-Temp
-.vs
-.vscode
-Logs
+Library/
+Temp/
+.vs/
+.vscode/
+Logs/
+obj/
+UserSettings/
